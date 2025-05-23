@@ -1,0 +1,11 @@
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+.site-footer {
+  text-align: center;
+  color: #888;
+  font-size: 0.9em;
+  margin-top: 2rem;
+}
