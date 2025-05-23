@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "AI talks"
 ---
 
 Welcome to my blog 🌱  
