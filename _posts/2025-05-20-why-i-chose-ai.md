@@ -1,6 +1,6 @@
 ---
 title: "Why I Chose AI"
-date: 2025-06-01
+date: 2025-05-20
 layout: post
 ---
 
